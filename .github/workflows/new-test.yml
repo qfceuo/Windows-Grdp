@@ -1,4 +1,4 @@
-name: Windows-CRD
+name: BRUH
 
 on: 
   workflow_dispatch:
